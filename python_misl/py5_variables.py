@@ -2,7 +2,7 @@
 name="Abishek" #name is a variable that holds the string value "Abishek"
 age=30 #age is variable that holds the integer value 30
 
-print(name) #output: Abishek
+print(name) #output: Abishekk
 
 
 
